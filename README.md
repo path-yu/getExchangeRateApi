@@ -5,7 +5,7 @@ The API endpoint https://salty-stoat-76.deno.dev accepts a query parameter start
 ## Request
 The API accepts a GET request with the following query parameter:
 
-* start: The target currency code (e.g. USD, EUR, GBP).
+* start: The target currency code (e.g. USD, EUR, GBP). The default is USD
 Example request:
 
 ```shell
